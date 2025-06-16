@@ -1,6 +1,7 @@
 # Léo Pépin
 
 🔗 [LinkedIn](https://linkedin.com/in/pepin-leo)
+*Infos de contact transmises par mail ou message linkedIn*
 
 ---
 
