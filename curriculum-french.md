@@ -2,7 +2,8 @@
 
 🔗 [LinkedIn](https://linkedin.com/in/pepin-leo)  
 *Infos de contact transmises par mail ou message linkedIn*  
-*Ce CV est disponible en markdown en suivant [ce lien](https://github.com/leo-pep/curriculum-vitae/blob/main/curriculum-french.md)
+  
+*Ce CV est disponible en markdown en suivant [ce lien](https://github.com/leo-pep/curriculum-vitae/blob/main/curriculum-french.md)*
 
 ---
 
