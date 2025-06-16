@@ -1,6 +1,6 @@
 # Léo Pépin
 
-🔗 [LinkedIn](https://linkedin,com/in/pepin-leo)
+🔗 [LinkedIn](https://linkedin.com/in/pepin-leo)
 
 ---
 
