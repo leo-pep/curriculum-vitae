@@ -56,51 +56,65 @@ Au sein de l'Unité de Pilotage Réseau Nord-Est et de l'équipe AIRCOM (Accès 
 ### IMT Lille-Douai (IMT Nord Europe) | Lille (59) | Ingénieur en informatique et télécommunications
 *09/2018 – 11/2021*
 
-- Mention ou spécialisation
-- Projets ou réalisations notables
+- Réalisé en alternance au sein d'EDF SA avec un rythme d'alternance de 6 semaines en entreprise pour 1 semaine d'école
+- Divers projets réalisés en développement logiciel, mobile, en machine-learning et en IA dans le but d'appliquer les notions abordées pendant les cours magistraux (C/C++, Java, Python)
 
 ### Université d'Artois | Béthune (62) | DUT Génie Électrique et Informatique Industrielle
-*MM/AAAA – MM/AAAA*
+*09/2016 – 09/2018*
 
-- Mention ou spécialisation
-- Projets ou réalisations notables
+- Réalisé en alternance au sein d'Orange SA avec un rythme d'alternance d'environ 6 semaines en entreprise pour environ 6 semaines d'école
+- Divers projets d'informatique industrielle réalisés dans le but d'appliquer les notions abordés pendant les cours magistraux (C, J2E, GRAFCET, etc)
 
 ---
 
 ## Compétences
 
-- Compétence 1
-- Compétence 2
-- Compétence 3
-- Compétence 4
+- Curiosité
+- Capacité d'adaptation
+- Gestion du stress
+- Ouverture d'esprit
 
 ---
 
 ## Projets
 
-### Nom du Projet | Lien (si applicable)
-*MM/AAAA – MM/AAAA*
+### Rust CAN Logger
+*06/2025*
 
-- Description du projet
-- Technologies ou compétences utilisées
+- Dans le but d'apprendre le Rust et le Rust for embedded, réalisation d'un logger de trames CAN
+- Rust, CAN
 
-### Nom du Projet | Lien (si applicable)
-*MM/AAAA – MM/AAAA*
+### [Portfolio photo/vidéo](https://www.lelopepics.com)
+*05/2024*
 
-- Description du projet
-- Technologies ou compétences utilisées
+- Mise en avant de mon travail indépendant de photographe au travers d'un portfolio
+- Python, Django, HTML/CSS/JS
+
+### Canon EOS M Recasing
+*2025*
+
+- Réalisation d'une version Open-Source du [M-Lite Revo](https://filmatura.com/products/m-lite-revo), un boîtier modifié du Canon EOS M
+- Modélisation et Design 3D, Reverse-engineering
+
+### [Portfolio photo/vidéo](https://lelopepics.com)
+*2025*
+
+- Réalisation d'une version Open-Source de l'[AGO Film processor](https://www.vintagevisual.eu/ago-film-processor/), un système automatisé de développement de pellicule photo
+- Modélisation et Design 3D, Conception électronique, Rust
 
 ---
 
 ## Langues
 
-- Langue 1 : Niveau
-- Langue 2 : Niveau
+- Français : C2
+- Anglais : C2
+- Espagnol : B2/C1
+- Arabe : A2
 
 ---
 
 ## Centres d'Intérêt
 
-- Intérêt 1
-- Intérêt 2
-- Intérêt 3
+- Sport automobile (WEC, ELMS, F1)
+- Photographie numérique et argentique
+- Sports (Skate/Longboard, Padèl, Tennis, Tennis de Table, Cyclisme)
