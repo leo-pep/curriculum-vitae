@@ -9,23 +9,28 @@ on:
   workflow_dispatch:
 
 jobs:
-  converttopdf:
-    name: Build PDF
+  convert:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Convert Markdown to PDF
-        uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_dir: .
-          output_dir: output
-          build_html: false
-          build_pdf: true
+    - name: Install Pandoc
+      run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
 
-      - name: Upload PDFs
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated-pdfs
-          path: output/
+    - name: Convert Markdown files to PDF
+      run: |
+        for file in *.md; do
+          if [ -f "$file" ]; then
+            pandoc "$file" -o "${file%.md}.pdf"
+          fi
+        done
+
+    - name: Commit and push PDF files
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add *.pdf
+        git commit -m "Add generated PDF files"
+        git push
