@@ -1,7 +1,8 @@
 # Léo Pépin
 
-🔗 [LinkedIn](https://linkedin.com/in/pepin-leo)
-*Infos de contact transmises par mail ou message linkedIn*
+🔗 [LinkedIn](https://linkedin.com/in/pepin-leo)  
+*Infos de contact transmises par mail ou message linkedIn*  
+*Ce CV est disponible en markdown en suivant [ce lien](https://github.com/leo-pep/curriculum-vitae/blob/main/curriculum-french.md)
 
 ---
 
@@ -19,15 +20,15 @@ Ingénieur QA spécialisé dans les systèmes embarqués et l'automatisation de 
 
 Participation à plusieurs missions dans le domaine de la Qualité logicielle :
 
-- #### Décathlon | Lille (59) | Ingénieur QA embarqué
-    *02/2024 – Actuel*
+#### Décathlon | Lille (59) | Ingénieur QA embarqué ==> 2ème mission Extia
+*02/2024 – Actuel*
   - Automatisation de tests pour gagner en réactivité dans la livraison des décisions QA (Python3, CAN, UART, BLE, I2C, etc...)
   - Développement d'une solution HIL pour pouvoir intégrer les TNR dans la CI/CD des développeurs (Python3, Linux, Docker, FastAPI)
   - Réalisation de tests manuels sur des objets connectés aux technologies variées (CAN, UART, BLE, I2C, etc...)
   - Écriture de nouveaux tests manuels, réécriture en gherkin et maintiens à jour de la bibliothèque des tests
 
-- #### Oney | Croix (59) | Analyste Technique de tests automatiques
-    *09/2021 – 03/2024*
+#### Oney | Croix (59) | Analyste Technique de tests automatiques ==> 1ère mission Extia
+*09/2021 – 03/2024*
   - Réalisation de scripts d'automatisation de tâches répétitives et à faible plus-value afin de permettre aux collaborateurs de se concentrer sur les sujets à forte plus-value
     (Java 21, Python3, VBA, IBM CICS) 
   - Écriture de nouveaux tests automatisés et maintiens de la base de tests automatisés à jour (Java 21, Selenium, Appium, Browserstack)
@@ -97,7 +98,7 @@ Au sein de l'Unité de Pilotage Réseau Nord-Est et de l'équipe AIRCOM (Accès 
 - Réalisation d'une version Open-Source du [M-Lite Revo](https://filmatura.com/products/m-lite-revo), un boîtier modifié du Canon EOS M
 - Modélisation et Design 3D, Reverse-engineering
 
-### [Portfolio photo/vidéo](https://lelopepics.com)
+### Modular Film Processor
 *2025*
 
 - Réalisation d'une version Open-Source de l'[AGO Film processor](https://www.vintagevisual.eu/ago-film-processor/), un système automatisé de développement de pellicule photo
