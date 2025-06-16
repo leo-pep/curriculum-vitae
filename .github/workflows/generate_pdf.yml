@@ -1,4 +1,5 @@
 name: Docs to PDF
+
 on:
   push:
     branches:
@@ -11,14 +12,20 @@ jobs:
   converttopdf:
     name: Build PDF
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
+
+      - name: Convert Markdown to PDF
+        uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: .
-          output_dir: .
+          output_dir: output
           build_html: false
-      - uses: actions/upload-artifact@v4
+          build_pdf: true
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
         with:
-          name: .
-          path: .
+          name: generated-pdfs
+          path: output/
