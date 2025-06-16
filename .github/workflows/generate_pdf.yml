@@ -16,14 +16,16 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Install Pandoc
-      run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
+    - name: Install Pandoc and LaTeX
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-xetex fonts-noto
 
     - name: Convert Markdown files to PDF
       run: |
         for file in *.md; do
           if [ -f "$file" ]; then
-            pandoc "$file" -o "${file%.md}.pdf"
+            pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex -V mainfont="Noto Sans" -V "geometry:margin=1in"
           fi
         done
 
