@@ -53,6 +53,16 @@ Au sein de l'Unité de Pilotage Réseau Nord-Est et de l'équipe AIRCOM (Accès 
 
 ---
 
+## Cerfifications
+
+### ISTQB Certified Tester - Test Automation Engineer (CTAL-TAE)
+- Obtenu en mai 2024
+- Identifiant : 252436
+- 
+### ISTQB Certified Tester Foundation Level (CFTL)
+- Obtenu en décembre 2022
+- Identifiant : 95496
+
 ## Éducation  
 
 ### IMT Lille-Douai (IMT Nord Europe) | Lille (59) | Ingénieur en informatique et télécommunications  
